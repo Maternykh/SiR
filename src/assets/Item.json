@@ -1,0 +1,35 @@
+[
+  {
+    "id": 0,
+    "imageUrl": "./1.jpg",
+    "title": "Элегант",
+    "popular": true,
+    "sizes": ["маленький", "средний", "большой"],
+    "price": 4349,
+    "category": 0,
+    "rating": 4,
+    "isOrder": false
+  },
+  {
+    "id": 1,
+    "imageUrl": "./2.jpg",
+    "title": "Луиджи",
+    "popular": false,
+    "sizes": ["средний", "большой"],
+    "price": 3249,
+    "category": 0,
+    "rating": 4,
+    "isOrder": false
+  },
+  {
+    "id": 2,
+    "imageUrl": "./3.jpg",
+    "title": "Сиена",
+    "popular": true,
+    "sizes": ["маленький", "большой"],
+    "price": 4699,
+    "category": 0,
+    "rating": 4,
+    "isOrder": false
+  }
+]
